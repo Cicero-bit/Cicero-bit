@@ -1,5 +1,5 @@
 #  About Me:
-Hey, I'm Cicero 👋<br>I'm a FullStack dev primarily working with JavaScript & TypeScript. I'm interested in building secure, scalable, and efficient applications for the web.<br><br>My current side projects involve building a services marketplace web applications using Node.js and React.<br>
+Hey, I'm Cicero 👋<br>I'm a FullStack dev primarily working with JavaScript & TypeScript. I'm interested in building secure, scalable, and efficient applications for the web.<br><br>My current side projects involves building a services marketplace web applications using Node.js and React.<br>
 
 
 ## 🌐 Socials:
